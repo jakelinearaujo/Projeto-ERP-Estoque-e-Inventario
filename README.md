@@ -25,32 +25,32 @@ Empresas **médias e grandes** do ramo de **eletrodomésticos** que desejam:
 
 ## Módulos Selecionados do NEXUSERP
 
-### 🔹 Vendas
+###  Vendas
 - Gerenciamento de pedidos;
 - Acompanhamento de clientes;
 - Emissão de relatórios de desempenho comercial.
 
-### 🔹 Estoque
+###  Estoque
 - Controle completo de produtos;
 - Gestão de entradas e saídas;
 - Monitoramento de movimentações e níveis de estoque.
 
-### 🔹 Clientes
+###  Clientes
 - Cadastro e gestão de informações de clientes;
 - Histórico de compras;
 - Ferramentas de comunicação e fidelização.
 
-### 🔹 Financeiro
+###  Financeiro
 - Controle de contas a pagar e a receber;
 - Gestão do fluxo de caixa;
 - Geração de relatórios financeiros precisos.
 
-### 🔹 Projetos e Tarefas
+###  Projetos e Tarefas
 - Planejamento estratégico de projetos internos;
 - Acompanhamento de prazos e responsáveis;
 - Gestão colaborativa de tarefas.
 
-### 🔹 Compras
+###  Compras
 - Gerenciamento de aquisições;
 - Controle de fornecedores;
 - Registro de compras de serviços e matérias-primas.
